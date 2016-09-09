@@ -1,6 +1,5 @@
 # kiwo
 post digital knitting, hybrid fabrication, digital crafts, social looming
-***
  
 > “El acto de tejer se convierte en una metáfora de la vida diaria, y también en una herramienta para construir espacio, construir grupos y comunidades, actividades e ideales que de otra forma permanecerían escondidos, olvidados o perdidos” 
 > In The Loop, Knitting now. Jessica Hemmings (2010)
