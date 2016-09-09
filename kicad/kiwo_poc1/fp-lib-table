@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name neopixel4pins)(type KiCad)(uri "$(KIPRJMOD)\\neopixel4pins.pretty")(options "")(descr ""))
+)

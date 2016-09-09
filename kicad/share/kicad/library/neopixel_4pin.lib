@@ -1,0 +1,20 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# neopixel_4pin
+#
+DEF neopixel_4pin U 0 40 Y Y 1 F N
+F0 "U" -158 -162 60 H V C CNN
+F1 "neopixel_4pin" -1 209 60 H V C CNN
+F2 "" -99 -99 60 H V C CNN
+F3 "" -99 -99 60 H V C CNN
+DRAW
+S -200 100 200 -100 0 1 0 N
+X VDD 1 -400 50 200 R 50 50 1 1 W
+X Dout 2 -400 -50 200 R 50 50 1 1 O
+X Vss 3 400 -50 200 L 50 50 1 1 W
+X Din 4 400 50 200 L 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

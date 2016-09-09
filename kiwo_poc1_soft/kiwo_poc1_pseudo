@@ -1,0 +1,32 @@
+
+volatine bool buttonPressed = false;
+
+setup:
+// init neopixel
+
+// init button pin
+
+enstep
+
+
+loop:
+	if (button pressed)
+   		buttonPressed = false;
+
+   		patternStep++;
+
+   	// loop over pattern micrsteps
+   	for ( microstep in step)
+   		neopixel.set(microstep)
+   		delay()
+   		erase()
+
+endloop
+
+
+
+
+
+isr
+ // set buttn pressed
+ buttonPressed = true;
